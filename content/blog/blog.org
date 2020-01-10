@@ -1,0 +1,6 @@
+* <2020-01-10 Fri> 
+
+  I created this blog because, honestly, I just want to use emacs.
+  I take notes using org-mode, and noticed that I could create content of the things I build and learn.
+
+  I also heard that if you explain what you learn, you learn [[https://www.youtube.com/watch?v=tkm0TNFzIeg][twice]]. 
